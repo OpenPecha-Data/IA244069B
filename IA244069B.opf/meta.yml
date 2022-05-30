@@ -1,0 +1,30 @@
+id: IA244069B
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-05-30T20:55:19.541819'
+last_modified: '2022-05-30T20:55:19.541830'
+parser: null
+source_metadata:
+  title: Götsangpa Gönpo Dorje
+  language: en
+  description: 'Texts by and about Götsangpa Gönpo Dorje (rgod tshang pa mgon po rdo
+    rje, 1189–1258):'
+  volume:
+    f12EC:
+      title: The Fourfold 'Manam' Refuge
+      base_file: f12EC.txt
+      order: 1
+      parent: Prayers
+    f764F:
+      title: 'The Tamboura of Devotion: A Prayer to Götsang Gönpo Dorje'
+      base_file: f764F.txt
+      order: 2
+      parent: Prayers
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
